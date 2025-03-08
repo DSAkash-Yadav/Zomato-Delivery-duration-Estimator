@@ -1,0 +1,7 @@
+[theme]
+base = "dark"  # Options: "light" or "dark"
+backgroundColor = "#1ce8de"  # Page background color
+primaryColor = "#FF5733"  # Accent color (buttons, sliders, etc.)
+secondaryBackgroundColor = "#f0f2f6"  # Sidebar and widgets background
+textColor = "#000000"  # Text color
+font = "sans serif"  # Options: "sans serif", "serif", "monospace"
